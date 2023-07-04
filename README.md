@@ -24,8 +24,8 @@
 
 ---
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioAgustinCabral&show_icons=true&hide_border=true)
+![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IgnacioAgustinCabral&show_icons=true&hide_border=true)
 
 ---
 
-![Ignacio Cabral's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioAgustinCabral&show_icons=true&theme=dark&text_color=03A062&icon_color=03A062&border_color=03A062&border_radius=42)
+![Ignacio Cabral's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IgnacioAgustinCabral&show_icons=true&theme=dark&text_color=03A062&icon_color=03A062&border_color=03A062&border_radius=42)
